@@ -1,0 +1,12 @@
+{
+  "name": "HitKeep",
+  "source": "https://hitkeep.com/",
+  "docker_image": "pascalebeier/hitkeep:2.18",
+  "version": "2.18",
+  "repository": "https://github.com/waskevin/tnas-app-hitkeep",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "submission_status": "not_submitted"
+}
