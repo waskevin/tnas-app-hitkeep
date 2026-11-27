@@ -1,0 +1,14 @@
+{
+  "number": 2,
+  "name": "HitKeep",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "evidence": "http_screenshot",
+  "screenshot_path": "precheck-screenshots/hitkeep/x86_64/run.png",
+  "precheck_status": "http_ok",
+  "runtime_note": "x86_64 runtime probe returned HTTP 200; setup page screenshot captured",
+  "submission_status": "not_submitted"
+}
